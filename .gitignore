@@ -2,3 +2,17 @@ History
 Project Logs*
 Project outputs*
 __Previews
+
+# STM32 related
+*.ioc
+*.launch
+*.ld
+.settings
+.cproject
+.project
+.mxproject
+Debug
+Release
+Drivers
+Middlewares
+USB_DEVICE
