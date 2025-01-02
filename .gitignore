@@ -13,9 +13,6 @@ __Previews
 .mxproject
 Debug
 Release
-Drivers
-Middlewares
-USB_DEVICE
 
 # Blender related
 *.png
